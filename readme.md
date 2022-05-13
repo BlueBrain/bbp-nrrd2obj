@@ -9,7 +9,7 @@ nrrd2mesh is using the [Lewiner](papers/lewiner.pdf) implementation of the March
 
 ## Install
 ```
-pip install git+https://bbpgitlab.epfl.ch/dke/users/jonathanlurie/nrrd2obj.git
+pip install git+https://bbpgitlab.epfl.ch/dke/nrrd2obj.git
 ```
 
 Then, run with the command:
