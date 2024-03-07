@@ -2,7 +2,7 @@ import nrrd
 import numpy as np
 from skimage import measure
 from scipy import ndimage
-from quad_mesh_simplify import simplify_mesh
+from simplify import simplify_mesh
 
 
 def create_mask(arr, mask_values = None):
