@@ -9,7 +9,7 @@ This is both a CLI and a library to be imported.
 
 ## Install
 ```
-pip install git+https://bbpgitlab.epfl.ch/dke/nrrd2obj.git
+pip install git+https://github.com/BlueBrain/bbp-nrrd2obj.git
 ```
 
 ## CLI arguments
