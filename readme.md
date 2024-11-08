@@ -1,11 +1,11 @@
-# nrrd2mesh
+# nrrd2obj
 This package provides the capability to compute a mesh (in .OBJ format) from a raster volume (in .nrrd format), if this one contains labels or masked.  
 
 Note that this will not perform well if the NRRD file contains floating point values.  
 
 This is both a CLI and a library to be imported.
 
-`nrrd2mesh` is using the [Lewiner](papers/lewiner.pdf) implementation of the Marching Cube algorithm in order to obtain smoother results.
+`nrrd2obj` is using the [Lewiner](papers/lewiner.pdf) implementation of the Marching Cube algorithm in order to obtain smoother results.
 
 ## Install
 ```
